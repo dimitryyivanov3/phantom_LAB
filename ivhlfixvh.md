@@ -183,7 +183,7 @@ View packet captures online: https://apackets.com/
 Understand ransomware: https://www.nomoreransom.org/
 
 Secure software development lifecycle: https://owasp.org/www-project-samm/
-
+nexus{f4444444k33_fl444G}
 Learn reverse engineering basics: https://crackmes.one/
 
 Red teaming tools: https://github.com/redteamtools/redteamtools.github.io
